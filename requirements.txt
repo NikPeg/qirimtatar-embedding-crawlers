@@ -1,0 +1,8 @@
+configparser==7.2.0
+aiofiles==24.1.0
+aiohttp==3.11.18
+aspose-pdf==25.4.0
+aspose-words==25.5.0
+opencv-python==4.11.0.86
+yadisk[async_defaults]
+libarchive-c==5.3
